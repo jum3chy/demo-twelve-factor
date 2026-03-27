@@ -9,6 +9,7 @@ import (
 
 const (
 	_apiVersion = "/api/v1"
+	fmt.Printf("hello world! getting tasks")
 )
 
 const (
