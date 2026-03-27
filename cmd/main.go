@@ -13,6 +13,7 @@ const (
 
 const (
 	_tasksPath = _apiVersion + "/tasks"
+	fmt.Printf("hello world! getting tasks")
 )
 
 func main() {
